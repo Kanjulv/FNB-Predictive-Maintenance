@@ -56,3 +56,6 @@ To run the project on your local machine:
     ```bash
     streamlit run app.py
     ```
+
+<img width="1074" height="553" alt="HoneywellArchDiagram" src="https://github.com/user-attachments/assets/1c66e201-a244-4ac2-a503-01b6acaf9d11" />
+
