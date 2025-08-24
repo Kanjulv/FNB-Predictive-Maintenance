@@ -1,0 +1,1170 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://172.28.0.12:8501
+  External URL: http://34.30.144.144:8501
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/content/app.py:125: SettingWithCopyWarning:
+
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/content/app.py:125: SettingWithCopyWarning:
+
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/content/app.py:125: SettingWithCopyWarning:
+
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/content/app.py:125: SettingWithCopyWarning:
+
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/content/app.py:125: SettingWithCopyWarning:
+
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/content/app.py:125: SettingWithCopyWarning:
+
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/content/app.py:125: SettingWithCopyWarning:
+
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/content/app.py:125: SettingWithCopyWarning:
+
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/content/app.py:125: SettingWithCopyWarning:
+
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/content/app.py:125: SettingWithCopyWarning:
+
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/content/app.py:125: SettingWithCopyWarning:
+
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/content/app.py:125: SettingWithCopyWarning:
+
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/content/app.py:125: SettingWithCopyWarning:
+
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/content/app.py:125: SettingWithCopyWarning:
+
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/content/app.py:125: SettingWithCopyWarning:
+
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/content/app.py:125: SettingWithCopyWarning:
+
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning:
+
+X does not have valid feature names, but StandardScaler was fitted with feature names
+
